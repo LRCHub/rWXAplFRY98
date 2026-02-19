@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "燦然 - Sanzen",
+  "base_artist": "SUPER BEAVER",
+  "createdAt": "2026-02-19T22:59:16.929043Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "燦然 - Sanzen",
+      "artist": "SUPER BEAVER",
+      "has_synced": false,
+      "path": "select/pl_01_燦然_-_Sanzen_SUPER_BEAVER.txt"
+    }
+  ]
+}
